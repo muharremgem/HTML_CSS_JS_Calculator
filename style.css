@@ -1,10 +1,13 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300&display=swap');
+
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
 /*? light mode colors */
 :root {
     --background: #e1e1e9;
@@ -19,6 +22,7 @@
     --font-color: #222;
     --mode-bk: #0025;
 }
+
 /*? dark mode colors */
 [data-theme="dark"] {
     --calc-background: #1e212a;
@@ -122,6 +126,7 @@
 .fa-moon{
     color: #FFF;
 }
+
 .fa-sun{
     color: #FFE551;
 }
