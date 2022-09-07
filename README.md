@@ -24,6 +24,7 @@ Project aims to create Todo_list within html and css.
 ```
 
 Calculator (folder)
+
 |----CALCULATOR.gif
 |----readme.md                 
 |----index.html  
